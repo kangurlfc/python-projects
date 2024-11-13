@@ -2,3 +2,11 @@
 /shelf/
 /workspace.xml
 .idea
+
+#jupyter
+
+.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace
+.ipynb_checkpoints/nobel-checkpoint.ipynb
+.virtual_documents/nobel.ipynb
+.ipynb_checkpoints/nobel-checkpoint.csv
+.ipynb_checkpoints/.gitignore-checkpoint
